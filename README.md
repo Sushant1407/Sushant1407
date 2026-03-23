@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building projects in Blockchain & Full Stack Development, especially real-world use cases like decentralized apps (DApps)<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to Web Development, Blockchain, and System Design<br><br>🌱 I’m currently learning<br>Blockchain Development, Backend Systems, and DevOps basics<br><br>💬 Ask me about  <br>Blockchain Technology, System Design, and React Development<br><br>⚡ Fun fact<br>I love turning complex tech concepts into simple ideas 😄 and I enjoy building things that actually solve problems<br>
+🔭 I’m currently working on<br>Building projects in Blockchain & Full Stack Development, especially real-world use cases like decentralized apps (DApps)<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to Web Development, Blockchain, and System Design<br><br>🌱 I’m currently learning<br>Blockchain Development, Backend Systems, and DevOps basics<br><br>💬 Ask me about  <br>Blockchain Technology, System Design, and React Development<br><br>
 
 
 # 💻 Tech Stack:
